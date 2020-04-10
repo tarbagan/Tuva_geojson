@@ -4,3 +4,6 @@
 
 
 ![Иллюстрация к проекту](https://github.com/tarbagan/Tuva_geojson/blob/master/screenshot-www.kaggle.com-2020.04.10-10_16_11.png)
+
+koguun.geojson - Геополигональная сетка включаем кол-во жителей кожууна
+populat_tuva_csv.csv 	- Населенные пункты Тувы, включая количество жителей и гендерные пропорции
