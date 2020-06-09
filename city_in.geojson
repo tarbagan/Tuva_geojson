@@ -560,8 +560,8 @@
       "type": "Feature",
       "properties": {
         "name": "Ий",
-        "latitude": "61.8082026",
-        "longitude": "48.6954797"
+        "latitude": "52.3415",
+        "longitude": "96.0207"
       },
       "geometry": {
         "type": "Point",
