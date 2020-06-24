@@ -1,3 +1,4 @@
+Autor: Irgit Valery https://github.com/tarbagan
 # Tuva_geojson
 Полигональная топооснова Республики Тыва в формате geojson c разбивкой на кожууны
 Пример (pandas) https://www.kaggle.com/tarbagan/tuva-geojson-maps-visualitaion
