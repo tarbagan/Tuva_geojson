@@ -1,0 +1,2120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Авыйган",
+        "latitude": "51.3204989",
+        "longitude": "95.5926481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.592648,
+          51.320499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Адыр-Кежиг",
+        "latitude": "52.4497728",
+        "longitude": "96.241468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.241468,
+          52.449773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ак-Даш",
+        "latitude": "51.3410954",
+        "longitude": "91.1281674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.128167,
+          51.341095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ак-Довурак",
+        "latitude": "51.174081",
+        "longitude": "90.5999914"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.599991,
+          51.174081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ак-Дуруг",
+        "latitude": "51.3995087",
+        "longitude": "92.2074823"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.207482,
+          51.399509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ак-Тал",
+        "latitude": "51.1743221",
+        "longitude": "93.4071913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.407191,
+          51.174322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ак-Эрик",
+        "latitude": "50.5142008",
+        "longitude": "94.6152832"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.615283,
+          50.514201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Аксы-Барлык",
+        "latitude": "51.1175678",
+        "longitude": "90.4021823"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.402182,
+          51.117568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Алдан-Маадыр", 
+        "latitude": "51.1746",
+        "longitude": "90.5839"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5839,
+          51.1746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Аржаан",
+        "latitude": "52.0592442",
+        "longitude": "93.6053528"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.605353,
+          52.059244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Арыг-Узуу",
+        "latitude": "51.4225518",
+        "longitude": "92.5956837"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.595684,
+          51.422552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Арыскан",
+        "latitude": "51.406536",
+        "longitude": "92.7097671"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.709767,
+          51.406536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Аянгаты",
+        "latitude": "50.9934854",
+        "longitude": "90.8429369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.842937,
+          50.993485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Бажын-Алаак",
+        "latitude": "51.2293018",
+        "longitude": "91.7340114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.734011,
+          51.229302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Бай-Даг",
+        "latitude": "50.3013082",
+        "longitude": "95.1019495"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.10195,
+          50.301308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Бай-Соот",
+        "latitude": "51.7517486",
+        "longitude": "95.3153976"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.315398,
+          51.751749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Бай-Тал",
+        "latitude": "50.9109348",
+        "longitude": "90.0583621"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.058362,
+          50.910935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Бай-Хаак",
+        "latitude": "51.1601031",
+        "longitude": "94.4651991"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.465199,
+          51.160103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Балгазын",
+        "latitude": "50.9964468",
+        "longitude": "95.1670684"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.167068,
+          50.996447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Барлык",
+        "latitude": "51.0810",
+        "longitude": "90.3210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3210,
+          51.0810
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Баян-Кол",
+        "latitude": "51.3450",
+        "longitude": "93.3312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.3312,
+          51.3450
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Баян-Тала",
+        "latitude": "51.4573557",
+        "longitude": "91.430771"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.430771,
+          51.457356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Белдир-Арыг",
+        "latitude": "50.5733792",
+        "longitude": "94.9732734"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.973273,
+          50.573379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Берт-Даг",
+        "latitude": "50.6253442",
+        "longitude": "94.7941167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.794117,
+          50.625344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Бижиктиг-Хая",
+        "latitude": "51.0998154",
+        "longitude": "90.6385447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.638545,
+          51.099815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Билелиг",
+        "latitude": "52.2732863",
+        "longitude": "93.8794007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.879401,
+          52.273286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Бора-Тайга",
+        "latitude": "51.4044258",
+        "longitude": "91.146738"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.146738,
+          51.404426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Бояровка",
+        "latitude": "51.5380167",
+        "longitude": "95.3540499"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.35405,
+          51.538017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Булун-Терек",
+        "latitude": "51.4769681",
+        "longitude": "92.2654182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.265418,
+          51.476968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Бурен-Бай-Хаак",
+        "latitude": "51.2449768",
+        "longitude": "95.55685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.55685,
+          51.244977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Бурен-Хем",
+        "latitude": "51.6519455",
+        "longitude": "95.0071514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.007151,
+          51.651945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Владимировка",
+        "latitude": "50.9977926",
+        "longitude": "95.3055046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.305505,
+          50.997793
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Дерзиг-Аксы",
+        "latitude": "51.456125",
+        "longitude": "95.6081696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.60817,
+          51.456125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Дон-Терезин",
+        "latitude": "51.2144574",
+        "longitude": "90.7030085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.703008,
+          51.214457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Дружба",
+        "latitude": "51.0078721",
+        "longitude": "90.2180158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.218016,
+          51.007872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Дурген",
+        "latitude": "51.1490635",
+        "longitude": "94.5006472"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.500647,
+          51.149063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Дус-Даг",
+        "latitude": "50.7257798",
+        "longitude": "92.6975083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.697508,
+          50.72578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ий",
+        "latitude": "52.3415",
+        "longitude": "96.0207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0207,
+          52.3415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ийи-Тал",
+        "latitude": "51.5656919",
+        "longitude": "93.337079"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.337079,
+          51.565692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ийме",
+        "latitude": "51.5782693",
+        "longitude": "91.5933809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.593381,
+          51.578269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ильинка",
+        "latitude": "51.1141651",
+        "longitude": "95.4779459"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.477946,
+          51.114165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ишкин",
+        "latitude": "51.5669621",
+        "longitude": "91.4749089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.474909,
+          51.566962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Иштии-Хем",
+        "latitude": "51.3205615",
+        "longitude": "92.4753913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.475391,
+          51.320561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Каа-Хем",
+        "latitude": "51.696541",
+        "longitude": "94.563721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.563721,
+          51.696541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кара-Хаак",
+        "latitude": "51.8863432",
+        "longitude": "94.4604279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.460428,
+          51.886343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кара-Холь",
+        "latitude": "51.1700",
+        "longitude": "89.4551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4551,
+          51.1700
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кара-Чыраа",
+        "latitude": "51.4169104",
+        "longitude": "91.3184404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.31844,
+          51.41691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кирсарай",
+        "latitude": "51.3754037",
+        "longitude": "91.8148471"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.814847,
+          51.375404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кок-Хаак",
+        "latitude": "51.511767",
+        "longitude": "95.4860581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.486058,
+          51.511767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кочетово",
+        "latitude": "51.345228",
+        "longitude": "94.0612703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.06127,
+          51.345228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Краснояровка",
+        "latitude": "51.0016375",
+        "longitude": "95.0479523"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.047952,
+          51.001638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кунгуртуг",
+        "latitude": "50.5986817",
+        "longitude": "97.5254386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.525439,
+          50.598682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кундустуг",
+        "latitude": "51.5734175",
+        "longitude": "95.1798664"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.179866,
+          51.573417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кызыл",
+        "latitude": "51.7190995",
+        "longitude": "94.4300627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.430063,
+          51.719099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кызыл-Арыг",
+        "latitude": "50.9292407",
+        "longitude": "95.1963496"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.19635,
+          50.929241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кызыл-Даг",
+        "latitude": "51.0397186",
+        "longitude": "90.1068754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.106875,
+          51.039719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кызыл-Даг",
+        "latitude": "51.0397186",
+        "longitude": "90.1068754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.106875,
+          51.039719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кызыл-Мажалык",
+        "latitude": "51.1454611",
+        "longitude": "90.5814803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.58148,
+          51.145461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кызыл-Тайга",
+        "latitude": "51.2839",
+        "longitude": "91.2300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2300,
+          51.2839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кызыл-Хая",
+        "latitude": "50.0483456",
+        "longitude": "89.8706419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.870642,
+          50.048346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ленинка",
+        "latitude": "51.9903052",
+        "longitude": "93.8752053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.875205,
+          51.990305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Марачевка",
+        "latitude": "50.9409379",
+        "longitude": "95.0043647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.004365,
+          50.940938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Межегей",
+        "latitude": "51.2555542",
+        "longitude": "94.3219435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.321944,
+          51.255554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Мерген",
+        "latitude": "51.5184914",
+        "longitude": "95.5242581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.524258,
+          51.518491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Морен",
+        "latitude": "50.3130857",
+        "longitude": "95.3731711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.373171,
+          50.313086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Мугур-Аксы",
+        "latitude": "50.3800035",
+        "longitude": "90.441721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.441721,
+          50.380004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Найырал",
+        "latitude": "52.1510599",
+        "longitude": "93.9396681"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.939668,
+          52.15106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Нарын",
+        "latitude": "50.1954563",
+        "longitude": "95.7090502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.70905,
+          50.195456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "О-Шынаа",
+        "latitude": "50.658934",
+        "longitude": "93.7471198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.74712,
+          50.658934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Оттук-Даш",
+        "latitude": "51.5650461",
+        "longitude": "93.6013308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.601331,
+          51.565046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Саглы",
+        "latitude": "50.4934482",
+        "longitude": "91.3298518"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.329852,
+          50.493448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Сайлыг",
+        "latitude": "51.1235704",
+        "longitude": "93.6846541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.684654,
+          51.12357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Салдам",
+        "latitude": "52.2849",
+        "longitude": "96.0534"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0534,
+          52.2849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Самагалтай",
+        "latitude": "50.599998",
+        "longitude": "95.001846"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.001846,
+          50.599998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Сарыг-Сеп",
+        "latitude": "51.492626",
+        "longitude": "95.554681"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.554681,
+          51.492626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Севи",
+        "latitude": "52.489418",
+        "longitude": "94.9264865"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.926486,
+          52.489418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Сесерлиг",
+        "latitude": "51.8768916",
+        "longitude": "94.258762"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.258762,
+          51.876892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Сизим",
+        "latitude": "51.3192221",
+        "longitude": "95.9441084"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.944108,
+          51.319222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Сой",
+        "latitude": "51.0104259",
+        "longitude": "95.3316721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.331672,
+          51.010426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Солчур",
+        "latitude": "50.7489479",
+        "longitude": "92.031431"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.031431,
+          50.748948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Сосновка",
+        "latitude": "51.1453988",
+        "longitude": "94.5236342"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.523634,
+          51.145399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Суг-Аксы",
+        "latitude": "51.402248",
+        "longitude": "91.278786"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.278786,
+          51.402248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Сукпак",
+        "latitude": "51.6473874",
+        "longitude": "94.2671278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.267128,
+          51.647387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Суш",
+        "latitude": "52.0630166",
+        "longitude": "94.1625176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.162518,
+          52.063017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Сыстыг-Хем",
+        "latitude": "52.6659379",
+        "longitude": "95.5077889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.507789,
+          52.665938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Тардам",
+        "latitude": "51.7112867",
+        "longitude": "95.3244798"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.32448,
+          51.711287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Тарлаг",
+        "latitude": "52.0673346",
+        "longitude": "93.4099547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.409955,
+          52.067335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Теве-Хая",
+        "latitude": "51.3658128",
+        "longitude": "91.4509672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.450967,
+          51.365813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Терлиг-Хая",
+        "latitude": "51.7104566",
+        "longitude": "93.5235071"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.523507,
+          51.710457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Тоора-Хем",
+        "latitude": "52.4470937",
+        "longitude": "96.2431634"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.243163,
+          52.447094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Торгалыг",
+        "latitude": "51.3301908",
+        "longitude": "92.8239747"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.823975,
+          51.330191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Туран",
+        "latitude": "52.1458093",
+        "longitude": "93.9186434"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.918643,
+          52.145809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Тээли",
+        "latitude": "51.0110954",
+        "longitude": "90.2043058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.204306,
+          51.011095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Тээли № 2",
+        "latitude": "51.0110954",
+        "longitude": "90.2043058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.204306,
+          51.011095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Успенка",
+        "latitude": "51.2344759",
+        "longitude": "94.2477472"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.247747,
+          51.234476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Усть-Бурен",
+        "latitude": "51.4138176",
+        "longitude": "95.6560897"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.65609,
+          51.413818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Усть-Ужеп",
+        "latitude": "51.3294147",
+        "longitude": "96.2546187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.254619,
+          51.329415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Усть-Хадын",
+        "latitude": "51.288216",
+        "longitude": "94.568761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.568761,
+          51.288216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Усть-Элегест",
+        "latitude": "51.3351",
+        "longitude": "94.0559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0559,
+          51.3351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Уш-Белдир",
+        "latitude": "51.2811",
+        "longitude": "98.0317"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.0317,
+          51.2811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Уюк",
+        "latitude": "52.0187888",
+        "longitude": "93.6369646"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.636965,
+          52.018789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Хадын",
+        "latitude": "51.9561678",
+        "longitude": "93.6290708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.629071,
+          51.956168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Хайыракан",
+        "latitude": "51.5631544",
+        "longitude": "93.0285213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.028521,
+          51.563154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Хайыракан",
+        "latitude": "51.5631544",
+        "longitude": "93.0285213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.028521,
+          51.563154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Хандагайты",
+        "latitude": "50.7330745",
+        "longitude": "92.0726451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.072645,
+          50.733075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Хемчик",
+        "latitude": "51.0108",  
+        "longitude": "91.1121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1121,
+          51.0108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Хову-Аксы",
+        "latitude": "51.131943",
+        "longitude": "93.715744"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.715744,
+          51.131943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Холчук",
+        "latitude": "51.0748276",
+        "longitude": "93.2771986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.277199,
+          51.074828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Холь-Оожу",
+        "latitude": "50.7394457",
+        "longitude": "94.4130714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.413071,
+          50.739446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Хонделен",
+        "latitude": "51.2528323",
+        "longitude": "90.3056838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.305684,
+          51.252832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Хондергей",
+        "latitude": "51.1280656",
+        "longitude": "91.6193587"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.619359,
+          51.128066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Хорум-Даг",
+        "latitude": "51.2823568",
+        "longitude": "91.0480747"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.048075,
+          51.282357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Хут",
+        "latitude": "52.4478129",
+        "longitude": "94.7403323"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.740332,
+          52.447813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Целинное",
+        "latitude": "51.3288301",
+        "longitude": "94.8057351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.805735,
+          51.32883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Чаа-Суур",
+        "latitude": "50.8233451",
+        "longitude": "92.7598487"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.759849,
+          50.823345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Чаа-Холь",
+        "latitude": "51.5141315",
+        "longitude": "92.3348586"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.334859,
+          51.514131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Чадан",
+        "latitude": "51.286018",
+        "longitude": "91.582817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.582817,
+          51.286018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Чазылары",
+        "latitude": "52.7542023",
+        "longitude": "97.4257898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.42579,
+          52.754202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Чал-Кежиг",
+        "latitude": "51.2966733",
+        "longitude": "93.9343032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.934303,
+          51.296673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Черби",
+        "latitude": "51.888064",
+        "longitude": "94.5928084"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.592808,
+          51.888064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Чкаловка",
+        "latitude": "52.0275263",
+        "longitude": "93.5070574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.507057,
+          52.027526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Чодураа",
+        "latitude": "51.3752608",
+        "longitude": "92.884032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.884032,
+          51.375261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Чыраа-Бажы",
+        "latitude": "51.1684485",
+        "longitude": "91.0529139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.052914,
+          51.168448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Чыргакы",
+        "latitude": "51.0626072",
+        "longitude": "91.0065595"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.006559,
+          51.062607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Шагонар",
+        "latitude": "51.538721",
+        "longitude": "92.9194074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.919407,
+          51.538721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Шамбалыг",
+        "latitude": "51.2406402",
+        "longitude": "95.0914385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.091438,
+          51.24064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Шанчы",
+        "latitude": "51.6060807",
+        "longitude": "91.9618584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.961858,
+          51.606081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Шекпээр",
+        "latitude": "51.1683632",
+        "longitude": "90.6817543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.681754,
+          51.168363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Шеми",
+        "latitude": "51.1566992",
+        "longitude": "91.2914366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.291437,
+          51.156699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Шивилиг",
+        "latitude": "52.1425",
+        "longitude": "93.4237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.4237,
+          52.1425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Шуй",
+        "latitude": "50.5312", 
+        "longitude": "90.2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2026,
+          50.5312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Шуурмак",
+        "latitude": "50.6532098",
+        "longitude": "95.3271335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.327134,
+          50.65321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ырбан",
+        "latitude": "52.7137562",
+        "longitude": "95.7278747"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.727875,
+          52.713756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Эйлиг-Хем",
+        "latitude": "51.6130028",
+        "longitude": "92.6727561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.672756,
+          51.613003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Элдиг-Хем",
+        "latitude": "50.5209",
+        "longitude": "91.0629"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0629,
+          50.5209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Элегест",
+        "latitude": "51.2146",
+        "longitude": "94.5739"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5739,
+          51.2146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Эрги-Барлык",
+        "latitude": "50.9360174",
+        "longitude": "90.4048361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.404836,
+          50.936017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Эржей",
+        "latitude": "51.3368742",
+        "longitude": "95.9342139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.934214,
+          51.336874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Эрзин",
+        "latitude": "50.3260255",
+        "longitude": "95.510931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.510931,
+          50.326026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ээр-Хавак",
+        "latitude": "51.0109326",
+        "longitude": "90.2606267"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.260627,
+          51.010933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ээрбек",
+        "latitude": "51.6508488",
+        "longitude": "94.2090227"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.209023,
+          51.650849
+        ]
+      }
+    }
+  ]
+}
