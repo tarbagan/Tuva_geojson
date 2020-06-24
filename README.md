@@ -10,3 +10,5 @@ koguun.geojson - Геополигональная сетка включает к
 populat_tuva_csv.csv 	- Населенные пункты Тувы, включая количество жителей и гендерные пропорции
 
 sumon.geojson - Населенные пункты Тувы
+
+![Иллюстрация к проекту](https://github.com/tarbagan/Tuva_geojson/blob/master/screenshot-covid.rtyva.ru-2020.06.24-12_14_23.png)
