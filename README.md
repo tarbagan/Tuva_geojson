@@ -14,3 +14,5 @@ sumon.geojson - Населенные пункты Тувы
 
 Пример реализации:
 ![Иллюстрация к проекту](https://github.com/tarbagan/Tuva_geojson/blob/master/screenshot-covid.rtyva.ru-2020.06.24-12_14_23.png)
+
+Дополнительная ветка: https://github.com/tarbagan/tuvastat
