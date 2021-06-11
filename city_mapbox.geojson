@@ -1,0 +1,2805 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Кунгуртуг",
+        "name_ru": "Кунгуртуг",
+        "koguun": "Муниципальный район Тере-Хольский кожуун",
+        "name_en": "Kungurtug",
+        "population": 1505,
+        "latitude": 50.598682,
+        "longitude": 97.525439
+      },
+      "geometry": {
+        "coordinates": [
+          97.525439,
+          50.598682
+        ],
+        "type": "Point"
+      },
+      "id": "01b49c359cb5783a661bccb076805b37"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Бүрен-Хем-Аксы",
+        "name_ru": "Бурен-Хем",
+        "koguun": "Муниципальный район Каа-Хемский кожуун",
+        "name_en": "Buren-Khem",
+        "population": 1031,
+        "latitude": 51.651945,
+        "longitude": 95.007151
+      },
+      "geometry": {
+        "coordinates": [
+          95.007151,
+          51.651945
+        ],
+        "type": "Point"
+      },
+      "id": "02d66ae34a33ca91c7f867ee24e32959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Сизим",
+        "name_ru": "Сизим",
+        "koguun": "Муниципальный район Каа-Хемский кожуун",
+        "name_en": "Sizim",
+        "population": 807,
+        "latitude": 51.319222,
+        "longitude": 95.944108
+      },
+      "geometry": {
+        "coordinates": [
+          95.944108,
+          51.319222
+        ],
+        "type": "Point"
+      },
+      "id": "0395693d5bd222f33d4ad27602208ea1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Бай-Сөөт",
+        "name_ru": "Бай-Соот",
+        "koguun": null,
+        "name_en": "Bai-Soot",
+        "population": null,
+        "latitude": 51.751749,
+        "longitude": 95.315398
+      },
+      "geometry": {
+        "coordinates": [
+          95.315398,
+          51.751749
+        ],
+        "type": "Point"
+      },
+      "id": "04a1bae4d83289475970aac04bc49017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Сосновка",
+        "name_ru": "Сосновка",
+        "koguun": null,
+        "name_en": "Sosnovka",
+        "population": null,
+        "latitude": 51.145399,
+        "longitude": 94.523634
+      },
+      "geometry": {
+        "coordinates": [
+          94.523634,
+          51.145399
+        ],
+        "type": "Point"
+      },
+      "id": "04ec9a88fe9030e2c7d373e67e7d36e1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Чазылары",
+        "name_ru": "Чазылары",
+        "koguun": "Муниципальный район Тоджинский кожуун",
+        "name_en": "Chazylary",
+        "population": 143,
+        "latitude": 52.754202,
+        "longitude": 97.42579
+      },
+      "geometry": {
+        "coordinates": [
+          97.42579,
+          52.754202
+        ],
+        "type": "Point"
+      },
+      "id": "0540505c1e995d8ab874bee3a01c0bf4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Бүрен-Аксы",
+        "name_ru": "Усть-Бурен",
+        "koguun": "Муниципальный район Каа-Хемский кожуун",
+        "name_en": "Ust-Buren",
+        "population": null,
+        "latitude": 51.413818,
+        "longitude": 95.65609
+      },
+      "geometry": {
+        "coordinates": [
+          95.65609,
+          51.413818
+        ],
+        "type": "Point"
+      },
+      "id": "0645995606502ab84e02b65ed0af7412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Баян-Тала",
+        "name_ru": "Баян-Тала",
+        "koguun": "Муниципальный район Дзун-Хемчикский кожуун",
+        "name_en": "Bayan-Tala",
+        "population": 714,
+        "latitude": 51.457356,
+        "longitude": 91.430771
+      },
+      "geometry": {
+        "coordinates": [
+          91.430771,
+          51.457356
+        ],
+        "type": "Point"
+      },
+      "id": "0aaa939d7c715c6819eea4760f1be63f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Дүрген",
+        "name_ru": "Дурген",
+        "koguun": "Муниципальный район Тандинский кожуун",
+        "name_en": "Durgen",
+        "population": 3040,
+        "latitude": 51.149063,
+        "longitude": 94.500647
+      },
+      "geometry": {
+        "coordinates": [
+          94.500647,
+          51.149063
+        ],
+        "type": "Point"
+      },
+      "id": "0bc98c40bf9672d0a044d95c9dc70d91"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Хову-Аксы",
+        "name_ru": "Хову-Аксы",
+        "koguun": "Муниципальный район Чеди-Хольский кожуун",
+        "name_en": "Howu-Aksy",
+        "population": 3728,
+        "latitude": 51.131943,
+        "longitude": 93.715744
+      },
+      "geometry": {
+        "coordinates": [
+          93.715744,
+          51.131943
+        ],
+        "type": "Point"
+      },
+      "id": "0e44370ae3b007ca480b910a090ddb70"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Ий",
+        "name_ru": "Ий",
+        "koguun": "Муниципальный район Тоджинский кожуун",
+        "name_en": "Hoo",
+        "population": 1394,
+        "latitude": 52.3415,
+        "longitude": 96.0207
+      },
+      "geometry": {
+        "coordinates": [
+          96.0207,
+          52.3415
+        ],
+        "type": "Point"
+      },
+      "id": "0fb66bd66e94395708c5ff4676584bd7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Эрзин",
+        "name_ru": "Эрзин",
+        "koguun": "Муниципальный район Эрзинский кожуун",
+        "name_en": "Erzine",
+        "population": 3129,
+        "latitude": 50.326026,
+        "longitude": 95.510931
+      },
+      "geometry": {
+        "coordinates": [
+          95.510931,
+          50.326026
+        ],
+        "type": "Point"
+      },
+      "id": "10c43c95706bea4ff53b8207e50586df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Целинное",
+        "name_ru": "Целинное",
+        "koguun": "Муниципальный район Кызылский кожуун",
+        "name_en": "Tselinnoye",
+        "population": 1227,
+        "latitude": 51.32883,
+        "longitude": 94.805735
+      },
+      "geometry": {
+        "coordinates": [
+          94.805735,
+          51.32883
+        ],
+        "type": "Point"
+      },
+      "id": "13f3d7edaec94abba904531e914b8c86"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Краснояровка",
+        "name_ru": "Краснояровка",
+        "koguun": null,
+        "name_en": "Krasnoyarovka",
+        "population": null,
+        "latitude": 51.001638,
+        "longitude": 95.047952
+      },
+      "geometry": {
+        "coordinates": [
+          95.047952,
+          51.001638
+        ],
+        "type": "Point"
+      },
+      "id": "14b09c7bfed42e5812fc2991edcf80f4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Үжеп-Аксы",
+        "name_ru": "Усть-Ужеп",
+        "koguun": null,
+        "name_en": "Ust-Uzhp",
+        "population": null,
+        "latitude": 51.329415,
+        "longitude": 96.254619
+      },
+      "geometry": {
+        "coordinates": [
+          96.254619,
+          51.329415
+        ],
+        "type": "Point"
+      },
+      "id": "15a7799e99868c85733eef274e330550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Арыскан",
+        "name_ru": "Арыскан",
+        "koguun": "Муниципальный район Улуг-Хемский кожуун",
+        "name_en": "Aryskan",
+        "population": 642,
+        "latitude": 51.406536,
+        "longitude": 92.709767
+      },
+      "geometry": {
+        "coordinates": [
+          92.709767,
+          51.406536
+        ],
+        "type": "Point"
+      },
+      "id": "16fe6b044be16adc60281bdfae78f2e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Холь-Оожу",
+        "name_ru": "Холь-Оожу",
+        "koguun": null,
+        "name_en": "Hol-Oozhu",
+        "population": null,
+        "latitude": 50.739446,
+        "longitude": 94.413071
+      },
+      "geometry": {
+        "coordinates": [
+          94.413071,
+          50.739446
+        ],
+        "type": "Point"
+      },
+      "id": "1acaa6c20d5e99f92fdc16b1998b4c85"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Самагалтай",
+        "name_ru": "Самагалтай",
+        "koguun": "Муниципальный район Тес-Хемский кожуун",
+        "name_en": "Samagaltay",
+        "population": 3267,
+        "latitude": 50.599998,
+        "longitude": 95.001846
+      },
+      "geometry": {
+        "coordinates": [
+          95.001846,
+          50.599998
+        ],
+        "type": "Point"
+      },
+      "id": "208652ca224bc768d3bb5eb682d34406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Шамбалыг",
+        "name_ru": "Шамбалыг",
+        "koguun": "Муниципальный район Кызылский кожуун",
+        "name_en": "Shambalyg",
+        "population": 411,
+        "latitude": 51.24064,
+        "longitude": 95.091438
+      },
+      "geometry": {
+        "coordinates": [
+          95.091438,
+          51.24064
+        ],
+        "type": "Point"
+      },
+      "id": "21897aa1bf63073cfc78d230bc80b4f4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Чыраа-Бажы",
+        "name_ru": "Чира-Бажи",
+        "koguun": "Муниципальный район Дзун-Хемчикский кожуун",
+        "name_en": "Chira-Bazhi",
+        "population": 1427,
+        "latitude": 51.168448,
+        "longitude": 91.052914
+      },
+      "geometry": {
+        "coordinates": [
+          91.052914,
+          51.168448
+        ],
+        "type": "Point"
+      },
+      "id": "22055b97de7403ad86ab33537fac5a78"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Шаңчы",
+        "name_ru": "Шанчы",
+        "koguun": "Муниципальный район Чаа-Хольский кожуун",
+        "name_en": "Shanchi",
+        "population": 322,
+        "latitude": 51.606081,
+        "longitude": 91.961858
+      },
+      "geometry": {
+        "coordinates": [
+          91.961858,
+          51.606081
+        ],
+        "type": "Point"
+      },
+      "id": "226328b7fece1e4f91aaccbdb4fa4663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Кызыл-Тайга",
+        "name_ru": "Кызыл-Тайга",
+        "koguun": "Муниципальный район Сут-Хольский кожуун",
+        "name_en": "Kyzyl-Taiga",
+        "population": 495,
+        "latitude": 51.2839,
+        "longitude": 91.23
+      },
+      "geometry": {
+        "coordinates": [
+          91.23,
+          51.2839
+        ],
+        "type": "Point"
+      },
+      "id": "23dd3b8264fea27c9beb5bcff654de7d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Бажың-Алаак",
+        "name_ru": "Бажын-Алаак",
+        "koguun": null,
+        "name_en": "Bazhyn-Alaak",
+        "population": null,
+        "latitude": 51.229302,
+        "longitude": 91.734011
+      },
+      "geometry": {
+        "coordinates": [
+          91.734011,
+          51.229302
+        ],
+        "type": "Point"
+      },
+      "id": "259371958c268bc2e12f51a7282b09f2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Аксы-Барлык",
+        "name_ru": "Аксы-Барлык",
+        "koguun": "Муниципальный район Барун-Хемчикский кожуун",
+        "name_en": "Aksy-Barlyk",
+        "population": 897,
+        "latitude": 51.117568,
+        "longitude": 90.402182
+      },
+      "geometry": {
+        "coordinates": [
+          90.402182,
+          51.117568
+        ],
+        "type": "Point"
+      },
+      "id": "264062ba15e49907151aecd40cb1ac81"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Найырал",
+        "name_ru": "Найырал",
+        "koguun": null,
+        "name_en": "Nairal",
+        "population": null,
+        "latitude": 52.15106,
+        "longitude": 93.939668
+      },
+      "geometry": {
+        "coordinates": [
+          93.939668,
+          52.15106
+        ],
+        "type": "Point"
+      },
+      "id": "271f0bc951cc224f896caa9d200c5ebb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Саглы",
+        "name_ru": "Саглы",
+        "koguun": "Муниципальный район Овюрский кожуун",
+        "name_en": "Sagly",
+        "population": 767,
+        "latitude": 50.493448,
+        "longitude": 91.329852
+      },
+      "geometry": {
+        "coordinates": [
+          91.329852,
+          50.493448
+        ],
+        "type": "Point"
+      },
+      "id": "276bea99cbc0711ba7ceb5b731cc04cb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Чкаловка",
+        "name_ru": "Чкаловка",
+        "koguun": null,
+        "name_en": "Chkalovka",
+        "population": null,
+        "latitude": 52.027526,
+        "longitude": 93.507057
+      },
+      "geometry": {
+        "coordinates": [
+          93.507057,
+          52.027526
+        ],
+        "type": "Point"
+      },
+      "id": "27d8a00eff33d0f47da560b93d381fd0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Ак-Эрик",
+        "name_ru": "Ак-Эрик",
+        "koguun": null,
+        "name_en": "Ak-Erik",
+        "population": null,
+        "latitude": 50.514201,
+        "longitude": 94.615283
+      },
+      "geometry": {
+        "coordinates": [
+          94.615283,
+          50.514201
+        ],
+        "type": "Point"
+      },
+      "id": "281eff44773eb565eed8b0c3f113f508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Белдир-Арыг",
+        "name_ru": "Белдир-Арыг",
+        "koguun": null,
+        "name_en": "Beldir-Aryg",
+        "population": null,
+        "latitude": 50.573379,
+        "longitude": 94.973273
+      },
+      "geometry": {
+        "coordinates": [
+          94.973273,
+          50.573379
+        ],
+        "type": "Point"
+      },
+      "id": "2f45708cbbf6edbf26ba2bdd3de1b80c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Мөрен",
+        "name_ru": "Морен",
+        "koguun": null,
+        "name_en": "Morin",
+        "population": null,
+        "latitude": 50.313086,
+        "longitude": 95.373171
+      },
+      "geometry": {
+        "coordinates": [
+          95.373171,
+          50.313086
+        ],
+        "type": "Point"
+      },
+      "id": "306d14ffda00d11ec0118de17298acf8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Кызыл-Мажалык",
+        "name_ru": "Кызыл-Мажалык",
+        "koguun": "Муниципальный район Барун-Хемчикский кожуун",
+        "name_en": "Kyzyl-Mazhalyk",
+        "population": 4919,
+        "latitude": 51.145461,
+        "longitude": 90.58148
+      },
+      "geometry": {
+        "coordinates": [
+          90.58148,
+          51.145461
+        ],
+        "type": "Point"
+      },
+      "id": "3bfb9c763cf67f960213ed3fc592cbd4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Шуй",
+        "name_ru": "Шуй",
+        "koguun": "Муниципальный район Бай-Тайгинский кожуун",
+        "name_en": "Shui",
+        "population": 1841,
+        "latitude": 50.5312,
+        "longitude": 90.2026
+      },
+      "geometry": {
+        "coordinates": [
+          90.2026,
+          50.5312
+        ],
+        "type": "Point"
+      },
+      "id": "3de30e06cd2a766d8ee43d5529f35167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Дружба",
+        "name_ru": "Дружба",
+        "koguun": null,
+        "name_en": "friendship",
+        "population": null,
+        "latitude": 51.007872,
+        "longitude": 90.218016
+      },
+      "geometry": {
+        "coordinates": [
+          90.218016,
+          51.007872
+        ],
+        "type": "Point"
+      },
+      "id": "41a4138ca9cece1961fbaebe99b7535a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Терлиг-Хая",
+        "name_ru": "Терлиг-Хая",
+        "koguun": "Муниципальный район Кызылский кожуун",
+        "name_en": "Terlig-Haya",
+        "population": 493,
+        "latitude": 51.710457,
+        "longitude": 93.523507
+      },
+      "geometry": {
+        "coordinates": [
+          93.523507,
+          51.710457
+        ],
+        "type": "Point"
+      },
+      "id": "4274a982fd7f19e7284091fb217b5432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Авыйган",
+        "name_ru": "Авыйган",
+        "koguun": null,
+        "name_en": "Avyigan",
+        "population": null,
+        "latitude": 51.320499,
+        "longitude": 95.592648
+      },
+      "geometry": {
+        "coordinates": [
+          95.592648,
+          51.320499
+        ],
+        "type": "Point"
+      },
+      "id": "4301ee15862878a09b7449f529222b1f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Хүт",
+        "name_ru": "Хут",
+        "koguun": null,
+        "name_en": "Hoot",
+        "population": null,
+        "latitude": 52.447813,
+        "longitude": 94.740332
+      },
+      "geometry": {
+        "coordinates": [
+          94.740332,
+          52.447813
+        ],
+        "type": "Point"
+      },
+      "id": "430a2ab7889840c8a01c36040bdc4805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Бай-Тал",
+        "name_ru": "Бай-Тал",
+        "koguun": "Муниципальный район Бай-Тайгинский кожуун",
+        "name_en": "Bai-Tal",
+        "population": 1826,
+        "latitude": 50.910935,
+        "longitude": 90.058362
+      },
+      "geometry": {
+        "coordinates": [
+          90.058362,
+          50.910935
+        ],
+        "type": "Point"
+      },
+      "id": "467ef3180fb625d70615021e109ed4c1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Ак-Тал",
+        "name_ru": "Ак-Тал",
+        "koguun": null,
+        "name_en": "Ak-Tal",
+        "population": null,
+        "latitude": 51.174322,
+        "longitude": 93.407191
+      },
+      "geometry": {
+        "coordinates": [
+          93.407191,
+          51.174322
+        ],
+        "type": "Point"
+      },
+      "id": "494dc1911710998e88ec7f069d4531ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Ак-Чыраа",
+        "name_ru": "Ак-Чира",
+        "koguun": null,
+        "name_en": "Ak-Chira",
+        "population": null,
+        "latitude": 50.6961,
+        "longitude": 93.2368
+      },
+      "geometry": {
+        "coordinates": [
+          93.2368,
+          50.6961
+        ],
+        "type": "Point"
+      },
+      "id": "4a50baa8038c653e03e40c88993a44e1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Билелиг",
+        "name_ru": "Билелиг",
+        "koguun": null,
+        "name_en": "Bilelig",
+        "population": null,
+        "latitude": 52.273286,
+        "longitude": 93.879401
+      },
+      "geometry": {
+        "coordinates": [
+          93.879401,
+          52.273286
+        ],
+        "type": "Point"
+      },
+      "id": "4b86652cf5957209191e9e9682c84a57"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Ак-Дуруг",
+        "name_ru": "Ак-Дуруг",
+        "koguun": "Муниципальный район Чаа-Хольский кожуун",
+        "name_en": "Ak-Durug",
+        "population": 1364,
+        "latitude": 51.399509,
+        "longitude": 92.207482
+      },
+      "geometry": {
+        "coordinates": [
+          92.207482,
+          51.399509
+        ],
+        "type": "Point"
+      },
+      "id": "4d79b60059b368c61b9a85fd99ab8577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Хөнделең",
+        "name_ru": "Хонделен",
+        "koguun": "Муниципальный район Барун-Хемчикский кожуун",
+        "name_en": "Hondelen",
+        "population": 566,
+        "latitude": 51.252832,
+        "longitude": 90.305684
+      },
+      "geometry": {
+        "coordinates": [
+          90.305684,
+          51.252832
+        ],
+        "type": "Point"
+      },
+      "id": "4f05412932796b3481b9090033cd9ccd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Шеми",
+        "name_ru": "Шеми",
+        "koguun": "Муниципальный район Дзун-Хемчикский кожуун",
+        "name_en": "Shemi",
+        "population": 1110,
+        "latitude": 51.156699,
+        "longitude": 91.291437
+      },
+      "geometry": {
+        "coordinates": [
+          91.291437,
+          51.156699
+        ],
+        "type": "Point"
+      },
+      "id": "4fc5f33ee0ed1fa8a4a9d3d5f479a936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Сарыг-Сеп",
+        "name_ru": "Сарыг-Сеп",
+        "koguun": "Муниципальный район Каа-Хемский кожуун",
+        "name_en": "Saryg-Sep",
+        "population": 4151,
+        "latitude": 51.492626,
+        "longitude": 95.554681
+      },
+      "geometry": {
+        "coordinates": [
+          95.554681,
+          51.492626
+        ],
+        "type": "Point"
+      },
+      "id": "53204554dddac1b96d2a4d23b2ad58ce"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Оттук-Даш",
+        "name_ru": "Оттук-Даш",
+        "koguun": null,
+        "name_en": "Ottuk-Dash",
+        "population": null,
+        "latitude": 51.565046,
+        "longitude": 93.601331
+      },
+      "geometry": {
+        "coordinates": [
+          93.601331,
+          51.565046
+        ],
+        "type": "Point"
+      },
+      "id": "53ebc3093ac3dadc987978aad367ab17"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Чадаана",
+        "name_ru": "Чадан",
+        "koguun": "Муниципальный район Дзун-Хемчикский кожуун",
+        "name_en": "Chadan",
+        "population": 9169,
+        "latitude": 51.286018,
+        "longitude": 91.582817
+      },
+      "geometry": {
+        "coordinates": [
+          91.582817,
+          51.286018
+        ],
+        "type": "Point"
+      },
+      "id": "54008a023ad283e85a6f7229925ac580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Дус-Даг",
+        "name_ru": "Дус-Даг",
+        "koguun": "Муниципальный район Овюрский кожуун",
+        "name_en": "Dus-Dag",
+        "population": 978,
+        "latitude": 50.72578,
+        "longitude": 92.697508
+      },
+      "geometry": {
+        "coordinates": [
+          92.697508,
+          50.72578
+        ],
+        "type": "Point"
+      },
+      "id": "54559f53284e68865a35f501ecbcf1b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Бай-Даг",
+        "name_ru": "Бай-Даг",
+        "koguun": "Муниципальный район Эрзинский кожуун",
+        "name_en": "Bai-Dag",
+        "population": 1307,
+        "latitude": 50.301308,
+        "longitude": 95.10195
+      },
+      "geometry": {
+        "coordinates": [
+          95.10195,
+          50.301308
+        ],
+        "type": "Point"
+      },
+      "id": "5a387a8c5c574d5b4f62af436f300169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Арыг-Үзүү",
+        "name_ru": "Арыг-Узуу",
+        "koguun": "Муниципальный район Улуг-Хемский кожуун",
+        "name_en": "Aryg-Uzuu",
+        "population": 1363,
+        "latitude": 51.422552,
+        "longitude": 92.595684
+      },
+      "geometry": {
+        "coordinates": [
+          92.595684,
+          51.422552
+        ],
+        "type": "Point"
+      },
+      "id": "5afbd40fae87c72f4d1c9edb9a5e1923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Торгалыг",
+        "name_ru": "Торгалыг",
+        "koguun": "Муниципальный район Улуг-Хемский кожуун",
+        "name_en": "Torgalyg",
+        "population": 1178,
+        "latitude": 51.330191,
+        "longitude": 92.823975
+      },
+      "geometry": {
+        "coordinates": [
+          92.823975,
+          51.330191
+        ],
+        "type": "Point"
+      },
+      "id": "641e8798e015d4bc2a28b2107d429c56"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Туран",
+        "name_ru": "Туран",
+        "koguun": "Муниципальный район Пий-Хемский кожуун",
+        "name_en": "Turan",
+        "population": 5670,
+        "latitude": 52.145809,
+        "longitude": 93.918643
+      },
+      "geometry": {
+        "coordinates": [
+          93.918643,
+          52.145809
+        ],
+        "type": "Point"
+      },
+      "id": "6464f34353629e72dde11fe913e643f4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Ырбан",
+        "name_ru": "Ырбан",
+        "koguun": "Муниципальный район Тоджинский кожуун",
+        "name_en": "Yrban",
+        "population": 293,
+        "latitude": 52.713756,
+        "longitude": 95.727875
+      },
+      "geometry": {
+        "coordinates": [
+          95.727875,
+          52.713756
+        ],
+        "type": "Point"
+      },
+      "id": "68e8d65da7be0238ef289f24189f45bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Бижиктиг-Хая",
+        "name_ru": "Бижиктиг-Хая",
+        "koguun": "Муниципальный район Барун-Хемчикский кожуун",
+        "name_en": "Bizhiktig-Khaya",
+        "population": 543,
+        "latitude": 51.099815,
+        "longitude": 90.638545
+      },
+      "geometry": {
+        "coordinates": [
+          90.638545,
+          51.099815
+        ],
+        "type": "Point"
+      },
+      "id": "6a9e3196b94b3a64080556dce78e9345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Сөөш",
+        "name_ru": "Суш",
+        "koguun": "Муниципальный район Пий-Хемский кожуун",
+        "name_en": "Dry",
+        "population": 761,
+        "latitude": 52.063017,
+        "longitude": 94.162518
+      },
+      "geometry": {
+        "coordinates": [
+          94.162518,
+          52.063017
+        ],
+        "type": "Point"
+      },
+      "id": "6c219ffb58c31f67eb6ee7411c50bf46"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Кара-Хаак",
+        "name_ru": "Кара-Хаак",
+        "koguun": "Муниципальный район Кызылский кожуун",
+        "name_en": "Kara-Khaak",
+        "population": 1393,
+        "latitude": 51.886343,
+        "longitude": 94.460428
+      },
+      "geometry": {
+        "coordinates": [
+          94.460428,
+          51.886343
+        ],
+        "type": "Point"
+      },
+      "id": "6c5d1921f36c650588a1a66c2e309b40"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Шагаан-Арыг",
+        "name_ru": "Шагонар",
+        "koguun": "Муниципальный район Улуг-Хемский кожуун",
+        "name_en": "Shagonar",
+        "population": 10973,
+        "latitude": 51.538721,
+        "longitude": 92.919407
+      },
+      "geometry": {
+        "coordinates": [
+          92.919407,
+          51.538721
+        ],
+        "type": "Point"
+      },
+      "id": "6f40bd89e2b09d25c70d924fb807a85f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Кызыл-Даг",
+        "name_ru": "Кызыл-Даг",
+        "koguun": "Муниципальный район Бай-Тайгинский кожуун",
+        "name_en": "Kyzyl-Dag",
+        "population": 797,
+        "latitude": 51.039719,
+        "longitude": 90.106875
+      },
+      "geometry": {
+        "coordinates": [
+          90.106875,
+          51.039719
+        ],
+        "type": "Point"
+      },
+      "id": "70892094d75e5e3ccdcb3293a6a4ad13"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Эйлиг-Хем",
+        "name_ru": "Эйлиг-Хем",
+        "koguun": "Муниципальный район Улуг-Хемский кожуун",
+        "name_en": "Eilig-Khem",
+        "population": 667,
+        "latitude": 51.613003,
+        "longitude": 92.672756
+      },
+      "geometry": {
+        "coordinates": [
+          92.672756,
+          51.613003
+        ],
+        "type": "Point"
+      },
+      "id": "757176417fb765d35a3812d4ee828cdf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Ийме",
+        "name_ru": "Ийме",
+        "koguun": "Муниципальный район Дзун-Хемчикский кожуун",
+        "name_en": "Iyme",
+        "population": 636,
+        "latitude": 51.578269,
+        "longitude": 91.593381
+      },
+      "geometry": {
+        "coordinates": [
+          91.593381,
+          51.578269
+        ],
+        "type": "Point"
+      },
+      "id": "7689fb28c6841835891e71251cee5bd0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Кызыл-Арыг",
+        "name_ru": "Кызыл-Арыг",
+        "koguun": "Муниципальный район Тандинский кожуун",
+        "name_en": "Kyzyl-Aryg",
+        "population": 727,
+        "latitude": 50.929241,
+        "longitude": 95.19635
+      },
+      "geometry": {
+        "coordinates": [
+          95.19635,
+          50.929241
+        ],
+        "type": "Point"
+      },
+      "id": "76a575f245479106cd7e93618bd7bd53"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Чаа-Суур",
+        "name_ru": "Чаа-Суур",
+        "koguun": "Муниципальный район Овюрский кожуун",
+        "name_en": "Chaa-Suur",
+        "population": 578,
+        "latitude": 50.823345,
+        "longitude": 92.759849
+      },
+      "geometry": {
+        "coordinates": [
+          92.759849,
+          50.823345
+        ],
+        "type": "Point"
+      },
+      "id": "771be33d8d863fec1020ba664bc3ad2d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Элдиг-Хем",
+        "name_ru": "Элдиг-Хем",
+        "koguun": "Муниципальный район Дзун-Хемчикский кожуун",
+        "name_en": "Eldig-Khem",
+        "population": 240,
+        "latitude": 50.5209,
+        "longitude": 91.0629
+      },
+      "geometry": {
+        "coordinates": [
+          91.0629,
+          50.5209
+        ],
+        "type": "Point"
+      },
+      "id": "7ac98dc53c62bdab8124687d8eb007db"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Эржей",
+        "name_ru": "Эржей",
+        "koguun": "Муниципальный район Кызылский кожуун",
+        "name_en": "Erzhey",
+        "population": 232,
+        "latitude": 51.336874,
+        "longitude": 95.934214
+      },
+      "geometry": {
+        "coordinates": [
+          95.934214,
+          51.336874
+        ],
+        "type": "Point"
+      },
+      "id": "7be91068674fe7a119cb7ec923d20bc5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Кызыл-Хая",
+        "name_ru": "Кызыл-Хая",
+        "koguun": null,
+        "name_en": "Kyzyl-Khaya",
+        "population": null,
+        "latitude": 50.048346,
+        "longitude": 89.870642
+      },
+      "geometry": {
+        "coordinates": [
+          89.870642,
+          50.048346
+        ],
+        "type": "Point"
+      },
+      "id": "7c5198c0809c10ec79b863e84f25867f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Көк-Хаак",
+        "name_ru": "Кок-Хаак",
+        "koguun": "Муниципальный район Каа-Хемский кожуун",
+        "name_en": "Kok-Haak",
+        "population": 405,
+        "latitude": 51.511767,
+        "longitude": 95.486058
+      },
+      "geometry": {
+        "coordinates": [
+          95.486058,
+          51.511767
+        ],
+        "type": "Point"
+      },
+      "id": "7dc801ea45dcd8c1587b5cf4ede887d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Успенка",
+        "name_ru": "Успенка",
+        "koguun": "Муниципальный район Тандинский кожуун",
+        "name_en": "Uspenka",
+        "population": 477,
+        "latitude": 51.234476,
+        "longitude": 94.247747
+      },
+      "geometry": {
+        "coordinates": [
+          94.247747,
+          51.234476
+        ],
+        "type": "Point"
+      },
+      "id": "80612ea6dab7c81d1588f67a9cc12754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Бай-Хаак",
+        "name_ru": "Бай-Хаак",
+        "koguun": "Муниципальный район Тандинский кожуун",
+        "name_en": "Bai-Haak",
+        "population": 3152,
+        "latitude": 51.160103,
+        "longitude": 94.465199
+      },
+      "geometry": {
+        "coordinates": [
+          94.465199,
+          51.160103
+        ],
+        "type": "Point"
+      },
+      "id": "8123f303081000eb18382fc4e2c61d8f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Хайыракан",
+        "name_ru": "Хайыракан",
+        "koguun": "Муниципальный район Улуг-Хемский кожуун",
+        "name_en": "Khayyrakan",
+        "population": 1753,
+        "latitude": 51.563154,
+        "longitude": 93.028521
+      },
+      "geometry": {
+        "coordinates": [
+          93.028521,
+          51.563154
+        ],
+        "type": "Point"
+      },
+      "id": "81b02bf825540777b3b60031a3385e25"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Үш-Белдир",
+        "name_ru": "Уш-Белдир",
+        "koguun": null,
+        "name_en": "Ush-Beldir",
+        "population": null,
+        "latitude": 51.4708,
+        "longitude": 98.0528
+      },
+      "geometry": {
+        "coordinates": [
+          98.05265,
+          51.470819
+        ],
+        "type": "Point"
+      },
+      "id": "81e64b39b2035628bb603cb41f1914e3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Кочетово",
+        "name_ru": "Кочетово",
+        "koguun": "Муниципальный район Тандинский кожуун",
+        "name_en": "Kochetovo",
+        "population": 866,
+        "latitude": 51.345228,
+        "longitude": 94.06127
+      },
+      "geometry": {
+        "coordinates": [
+          94.06127,
+          51.345228
+        ],
+        "type": "Point"
+      },
+      "id": "829fb8654cf2229a034b37a5d57f67fa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Кирсарай",
+        "name_ru": "Кирсарай",
+        "koguun": null,
+        "name_en": "Kirsaray",
+        "population": null,
+        "latitude": 51.375404,
+        "longitude": 91.814847
+      },
+      "geometry": {
+        "coordinates": [
+          91.814847,
+          51.375404
+        ],
+        "type": "Point"
+      },
+      "id": "84234b8d6a2fa1d84a2d48a1bcae854f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Марачевка",
+        "name_ru": "Марачевка",
+        "koguun": null,
+        "name_en": "Marachevka",
+        "population": null,
+        "latitude": 50.940938,
+        "longitude": 95.004365
+      },
+      "geometry": {
+        "coordinates": [
+          95.004365,
+          50.940938
+        ],
+        "type": "Point"
+      },
+      "id": "84a0db49bd1ac4f72ceea98c88ac48ad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Хемчик",
+        "name_ru": "Хемчик",
+        "koguun": "Муниципальный район Бай-Тайгинский кожуун",
+        "name_en": "Hemchik",
+        "population": 816,
+        "latitude": 51.0108,
+        "longitude": 91.1121
+      },
+      "geometry": {
+        "coordinates": [
+          91.1121,
+          51.0108
+        ],
+        "type": "Point"
+      },
+      "id": "858e2506502c892dfa2c6bfd5bc7c6fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Сой",
+        "name_ru": "Сой",
+        "koguun": null,
+        "name_en": "Soy",
+        "population": null,
+        "latitude": 51.010426,
+        "longitude": 95.331672
+      },
+      "geometry": {
+        "coordinates": [
+          95.331672,
+          51.010426
+        ],
+        "type": "Point"
+      },
+      "id": "86a4cde45ea3459b813dacd25fe01c50"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Севи",
+        "name_ru": "Севи",
+        "koguun": "Муниципальный район Пий-Хемский кожуун",
+        "name_en": "Sevi",
+        "population": 374,
+        "latitude": 52.489418,
+        "longitude": 94.926486
+      },
+      "geometry": {
+        "coordinates": [
+          94.926486,
+          52.489418
+        ],
+        "type": "Point"
+      },
+      "id": "86bab79dbab8b52e6593a0fc56e3af02"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Шивилиг",
+        "name_ru": "Шивилиг",
+        "koguun": "Муниципальный район Пий-Хемский кожуун",
+        "name_en": "Shivilig",
+        "population": 208,
+        "latitude": 52.1425,
+        "longitude": 93.4237
+      },
+      "geometry": {
+        "coordinates": [
+          93.4237,
+          52.1425
+        ],
+        "type": "Point"
+      },
+      "id": "886c5b3b9c340eba4fc4712d74ce4e06"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Сайлыг",
+        "name_ru": "Сайлыг",
+        "koguun": "Муниципальный район Чеди-Хольский кожуун",
+        "name_en": "Saylyg",
+        "population": 1174,
+        "latitude": 51.12357,
+        "longitude": 93.684654
+      },
+      "geometry": {
+        "coordinates": [
+          93.684654,
+          51.12357
+        ],
+        "type": "Point"
+      },
+      "id": "8d6c534d434d2b9a9a08a19eddde746c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Уюк",
+        "name_ru": "Уюк",
+        "koguun": "Муниципальный район Пий-Хемский кожуун",
+        "name_en": "Uyuk",
+        "population": 750,
+        "latitude": 52.018789,
+        "longitude": 93.636965
+      },
+      "geometry": {
+        "coordinates": [
+          93.636965,
+          52.018789
+        ],
+        "type": "Point"
+      },
+      "id": "8e8812d39d074668db04b477f1c98595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Нарын",
+        "name_ru": "Нарын",
+        "koguun": "Муниципальный район Эрзинский кожуун",
+        "name_en": "Naryn",
+        "population": 1724,
+        "latitude": 50.195456,
+        "longitude": 95.70905
+      },
+      "geometry": {
+        "coordinates": [
+          95.70905,
+          50.195456
+        ],
+        "type": "Point"
+      },
+      "id": "9667af069188854f5927153e7769a591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Теве-Хая",
+        "name_ru": "Теве-Хая",
+        "koguun": null,
+        "name_en": "Teve-Haya",
+        "population": null,
+        "latitude": 51.365813,
+        "longitude": 91.450967
+      },
+      "geometry": {
+        "coordinates": [
+          91.450967,
+          51.365813
+        ],
+        "type": "Point"
+      },
+      "id": "988bedf4edfd2a64a95ce9c0b3e40499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Межегей",
+        "name_ru": "Межегей",
+        "koguun": "Муниципальный район Тандинский кожуун",
+        "name_en": "Mezhegey",
+        "population": 1266,
+        "latitude": 51.255554,
+        "longitude": 94.321944
+      },
+      "geometry": {
+        "coordinates": [
+          94.321944,
+          51.255554
+        ],
+        "type": "Point"
+      },
+      "id": "98f001f9ae2725db443cd6dddc79b42a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Барлык",
+        "name_ru": "Барлык",
+        "koguun": "Муниципальный район Барун-Хемчикский кожуун",
+        "name_en": "Barlyk",
+        "population": 1443,
+        "latitude": 51.081,
+        "longitude": 90.321
+      },
+      "geometry": {
+        "coordinates": [
+          90.321,
+          51.081
+        ],
+        "type": "Point"
+      },
+      "id": "9918311d034af4a6f113986cfe6834e0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Чал-Кежиг",
+        "name_ru": "Чал-Кежиг",
+        "koguun": "Муниципальный район Чеди-Хольский кожуун",
+        "name_en": "Chal-Kezhig",
+        "population": 298,
+        "latitude": 51.296673,
+        "longitude": 93.934303
+      },
+      "geometry": {
+        "coordinates": [
+          93.934303,
+          51.296673
+        ],
+        "type": "Point"
+      },
+      "id": "9bb65ba667148c62720abfe3904e19a6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Кара-Холь",
+        "name_ru": "Кара-Холь",
+        "koguun": "Муниципальный район Бай-Тайгинский кожуун",
+        "name_en": "Kara-Khol",
+        "population": 1342,
+        "latitude": 51.17,
+        "longitude": 89.4551
+      },
+      "geometry": {
+        "coordinates": [
+          89.4551,
+          51.17
+        ],
+        "type": "Point"
+      },
+      "id": "9e1d4b34fd3de62289ea0985d5054b87"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Бора-Тайга",
+        "name_ru": "Бора-Тайга",
+        "koguun": "Муниципальный район Сут-Хольский кожуун",
+        "name_en": "Bora-Taiga",
+        "population": 782,
+        "latitude": 51.404426,
+        "longitude": 91.146738
+      },
+      "geometry": {
+        "coordinates": [
+          91.146738,
+          51.404426
+        ],
+        "type": "Point"
+      },
+      "id": "9f90e56fa5b6154f9dbe7298332e6295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "О-Шынаа",
+        "name_ru": "О-Шынаа",
+        "koguun": null,
+        "name_en": "O-Shynaa",
+        "population": null,
+        "latitude": 50.658934,
+        "longitude": 93.74712
+      },
+      "geometry": {
+        "coordinates": [
+          93.74712,
+          50.658934
+        ],
+        "type": "Point"
+      },
+      "id": "a0d4f7f4a67b942c9f05c86a88a5162b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Кызыл",
+        "name_ru": "Кызыл",
+        "koguun": null,
+        "name_en": "Kyzyl",
+        "population": 116015,
+        "latitude": 51.719099,
+        "longitude": 94.430063
+      },
+      "geometry": {
+        "coordinates": [
+          94.430063,
+          51.719099
+        ],
+        "type": "Point"
+      },
+      "id": "a29db743601cf664923df15bbbd492d6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Хандагайты",
+        "name_ru": "Хандагайты",
+        "koguun": "Муниципальный район Овюрский кожуун",
+        "name_en": "Handagayty",
+        "population": 3209,
+        "latitude": 50.733075,
+        "longitude": 92.072645
+      },
+      "geometry": {
+        "coordinates": [
+          92.072645,
+          50.733075
+        ],
+        "type": "Point"
+      },
+      "id": "a4f7c6c3ce25a340b78bbabca819249c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Дөң-Терезин",
+        "name_ru": "Дон-Терезин",
+        "koguun": null,
+        "name_en": "Don-Terezin",
+        "population": null,
+        "latitude": 51.214457,
+        "longitude": 90.703008
+      },
+      "geometry": {
+        "coordinates": [
+          90.703008,
+          51.214457
+        ],
+        "type": "Point"
+      },
+      "id": "a69f6e69e60a4f059fe382a3094c21c8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Булуң-Терек",
+        "name_ru": "Булун-Терек",
+        "koguun": null,
+        "name_en": "Bulun-Terek",
+        "population": null,
+        "latitude": 51.476968,
+        "longitude": 92.265418
+      },
+      "geometry": {
+        "coordinates": [
+          92.265418,
+          51.476968
+        ],
+        "type": "Point"
+      },
+      "id": "a6f85db5c3108f85efd4618c67b0a74d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Солчур",
+        "name_ru": "Солчур",
+        "koguun": "Муниципальный район Овюрский кожуун",
+        "name_en": "Solchur",
+        "population": 892,
+        "latitude": 50.748948,
+        "longitude": 92.031431
+      },
+      "geometry": {
+        "coordinates": [
+          92.031431,
+          50.748948
+        ],
+        "type": "Point"
+      },
+      "id": "a8091a57daa8ababb82ecb2a115df4e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Элегест",
+        "name_ru": "Элегест",
+        "koguun": "Муниципальный район Чеди-Хольский кожуун",
+        "name_en": "Elegest",
+        "population": 1415,
+        "latitude": 51.2146,
+        "longitude": 94.5739
+      },
+      "geometry": {
+        "coordinates": [
+          94.5739,
+          51.2146
+        ],
+        "type": "Point"
+      },
+      "id": "ad1d76c30d488a4c1e7e48cff1db9657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Дерзиг-Аксы",
+        "name_ru": "Дерзиг-Аксы",
+        "koguun": "Муниципальный район Каа-Хемский кожуун",
+        "name_en": "Derzig-Aksy",
+        "population": 1004,
+        "latitude": 51.456125,
+        "longitude": 95.60817
+      },
+      "geometry": {
+        "coordinates": [
+          95.60817,
+          51.456125
+        ],
+        "type": "Point"
+      },
+      "id": "ae2eedac7b5d40ecc55bef59c2951fbe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Арыг-Бажы",
+        "name_ru": "Арыг-Бажи",
+        "koguun": "Муниципальный район Тандинский кожуун",
+        "name_en": "Aryg-Bazhi",
+        "population": 920,
+        "latitude": 51.433,
+        "longitude": 93.0576
+      },
+      "geometry": {
+        "coordinates": [
+          93.0576,
+          51.433
+        ],
+        "type": "Point"
+      },
+      "id": "af45cfceeb88ca1028a26e56a19cccb1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Салдам",
+        "name_ru": "Саддам",
+        "koguun": null,
+        "name_en": "Saddam",
+        "population": null,
+        "latitude": 52.2849,
+        "longitude": 96.0534
+      },
+      "geometry": {
+        "coordinates": [
+          96.0534,
+          52.2849
+        ],
+        "type": "Point"
+      },
+      "id": "b2bd1226fd77a3a754ab3a777beee5da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Ийи-Тал",
+        "name_ru": "Ийи-Тал",
+        "koguun": "Муниципальный район Улуг-Хемский кожуун",
+        "name_en": "Iyi-Tal",
+        "population": 616,
+        "latitude": 51.565692,
+        "longitude": 93.337079
+      },
+      "geometry": {
+        "coordinates": [
+          93.337079,
+          51.565692
+        ],
+        "type": "Point"
+      },
+      "id": "b471bba57c2e56e00c2a5c981b07d992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Хадың",
+        "name_ru": "Хадын",
+        "koguun": "Муниципальный район Пий-Хемский кожуун",
+        "name_en": "Khadyn",
+        "population": 660,
+        "latitude": 51.956168,
+        "longitude": 93.629071
+      },
+      "geometry": {
+        "coordinates": [
+          93.629071,
+          51.956168
+        ],
+        "type": "Point"
+      },
+      "id": "b7b5c1d08c248aebe4c215cf34f60baa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Аржаан",
+        "name_ru": "Аржаан",
+        "koguun": "Муниципальный район Пий-Хемский кожуун",
+        "name_en": "Arzhaan",
+        "population": 771,
+        "latitude": 52.059244,
+        "longitude": 93.605353
+      },
+      "geometry": {
+        "coordinates": [
+          93.605353,
+          52.059244
+        ],
+        "type": "Point"
+      },
+      "id": "bb0a030b8e09fc8614d2c143dc87f8d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Тоора-Хем",
+        "name_ru": "Тоора-Хем",
+        "koguun": "Муниципальный район Тоджинский кожуун",
+        "name_en": "Toora-Khem",
+        "population": 3160,
+        "latitude": 52.447094,
+        "longitude": 96.243163
+      },
+      "geometry": {
+        "coordinates": [
+          96.243163,
+          52.447094
+        ],
+        "type": "Point"
+      },
+      "id": "c36b0d8642af215cd045d7cd7ad60bdd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Ишкин",
+        "name_ru": "Ишкин",
+        "koguun": "Муниципальный район Сут-Хольский кожуун",
+        "name_en": "Ishkin",
+        "population": 1108,
+        "latitude": 51.566962,
+        "longitude": 91.474909
+      },
+      "geometry": {
+        "coordinates": [
+          91.474909,
+          51.566962
+        ],
+        "type": "Point"
+      },
+      "id": "c444739e4b42692f3b476896f85f5cef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Хорум-Даг",
+        "name_ru": "Хорум-Даг",
+        "koguun": "Муниципальный район Дзун-Хемчикский кожуун",
+        "name_en": "Horum-Dag",
+        "population": 418,
+        "latitude": 51.282357,
+        "longitude": 91.048075
+      },
+      "geometry": {
+        "coordinates": [
+          91.048075,
+          51.282357
+        ],
+        "type": "Point"
+      },
+      "id": "c5a1c1bb3c759dfe86a8e4db6abe97fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Ильинка",
+        "name_ru": "Ильинка",
+        "koguun": "Муниципальный район Каа-Хемский кожуун",
+        "name_en": "Ilyinka",
+        "population": 812,
+        "latitude": 51.114165,
+        "longitude": 95.477946
+      },
+      "geometry": {
+        "coordinates": [
+          95.477946,
+          51.114165
+        ],
+        "type": "Point"
+      },
+      "id": "c5abb1b9b99ccd96cb7881cd71177940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Элегес-Аксы",
+        "name_ru": "Усть-Элегест",
+        "koguun": "Муниципальный район Кызылский кожуун",
+        "name_en": "Ust-Elegest",
+        "population": 1486,
+        "latitude": 51.3351,
+        "longitude": 94.0559
+      },
+      "geometry": {
+        "coordinates": [
+          94.0559,
+          51.3351
+        ],
+        "type": "Point"
+      },
+      "id": "c7abc6bedf14ad6583dc4398d2ad33ab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Аяңгаты",
+        "name_ru": "Аянгаты",
+        "koguun": "Муниципальный район Барун-Хемчикский кожуун",
+        "name_en": "Ayangats",
+        "population": 503,
+        "latitude": 50.993485,
+        "longitude": 90.842937
+      },
+      "geometry": {
+        "coordinates": [
+          90.842937,
+          50.993485
+        ],
+        "type": "Point"
+      },
+      "id": "c7f1e56e0f721a56db8492eb29aa3991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Бояровка",
+        "name_ru": "Бояровка",
+        "koguun": "Муниципальный район Каа-Хемский кожуун",
+        "name_en": "Boyarovka",
+        "population": 631,
+        "latitude": 51.538017,
+        "longitude": 95.35405
+      },
+      "geometry": {
+        "coordinates": [
+          95.35405,
+          51.538017
+        ],
+        "type": "Point"
+      },
+      "id": "c82af072a84c69b02a7c0ebce32cf5b5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Чыргакы",
+        "name_ru": "Чыргакы",
+        "koguun": "Муниципальный район Дзун-Хемчикский кожуун",
+        "name_en": "Chyrgaki",
+        "population": 788,
+        "latitude": 51.062607,
+        "longitude": 91.006559
+      },
+      "geometry": {
+        "coordinates": [
+          91.006559,
+          51.062607
+        ],
+        "type": "Point"
+      },
+      "id": "c9c8fb0a1e43911921747de2e51bad5d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Кундустуг",
+        "name_ru": "Кундустуг",
+        "koguun": "Муниципальный район Каа-Хемский кожуун",
+        "name_en": "Kundustug",
+        "population": 609,
+        "latitude": 51.573417,
+        "longitude": 95.179866
+      },
+      "geometry": {
+        "coordinates": [
+          95.179866,
+          51.573417
+        ],
+        "type": "Point"
+      },
+      "id": "cab51e4477d9d987ded739d2bba67f97"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Ак-Довурак",
+        "name_ru": "Ак-Довурак",
+        "koguun": "Муниципальный район Барун-Хемчикский кожуун",
+        "name_en": "Ak-Dovurak",
+        "population": 13578,
+        "latitude": 51.174081,
+        "longitude": 90.599991
+      },
+      "geometry": {
+        "coordinates": [
+          90.599991,
+          51.174081
+        ],
+        "type": "Point"
+      },
+      "id": "cb7fe3a05d3585adafad6aaf3adf6b65"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Чодураа",
+        "name_ru": "Чодура",
+        "koguun": null,
+        "name_en": "Chodura",
+        "population": null,
+        "latitude": 51.375261,
+        "longitude": 92.884032
+      },
+      "geometry": {
+        "coordinates": [
+          92.884032,
+          51.375261
+        ],
+        "type": "Point"
+      },
+      "id": "cc04fdc12e06cbaa4f3ab3939e04b036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Сесерлиг",
+        "name_ru": "Сесерлиг",
+        "koguun": "Муниципальный район Пий-Хемский кожуун",
+        "name_en": "Seserlig",
+        "population": 1227,
+        "latitude": 51.876892,
+        "longitude": 94.258762
+      },
+      "geometry": {
+        "coordinates": [
+          94.258762,
+          51.876892
+        ],
+        "type": "Point"
+      },
+      "id": "cd5c421e9272072ed97e22de5429cf38"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Берт-Даг",
+        "name_ru": "Берт-Даг",
+        "koguun": "Муниципальный район Тес-Хемский кожуун",
+        "name_en": "Bert-Doug",
+        "population": 1045,
+        "latitude": 50.625344,
+        "longitude": 94.794117
+      },
+      "geometry": {
+        "coordinates": [
+          94.794117,
+          50.625344
+        ],
+        "type": "Point"
+      },
+      "id": "ce23b702bde8c6c67bfac70c43c0ec22"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Черби",
+        "name_ru": "Черби",
+        "koguun": "Муниципальный район Кызылский кожуун",
+        "name_en": "Cherby",
+        "population": 1137,
+        "latitude": 51.888064,
+        "longitude": 94.592808
+      },
+      "geometry": {
+        "coordinates": [
+          94.592808,
+          51.888064
+        ],
+        "type": "Point"
+      },
+      "id": "cf184103efbfbf91e63c01bdeb96eb4e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Ээрбек",
+        "name_ru": "Ээрбек",
+        "koguun": "Муниципальный район Кызылский кожуун",
+        "name_en": "Eerbek ",
+        "population": 1205,
+        "latitude": 51.650849,
+        "longitude": 94.209023
+      },
+      "geometry": {
+        "coordinates": [
+          94.209023,
+          51.650849
+        ],
+        "type": "Point"
+      },
+      "id": "cff22bf4cf90791882bdb8e1dcbd6038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Каа-Хем",
+        "name_ru": "Каа-Хем",
+        "koguun": "Муниципальный район Кызылский кожуун",
+        "name_en": "Kaa-Khem",
+        "population": 17622,
+        "latitude": 51.696541,
+        "longitude": 94.563721
+      },
+      "geometry": {
+        "coordinates": [
+          94.563721,
+          51.696541
+        ],
+        "type": "Point"
+      },
+      "id": "d07fe2528af11bd76c3b39ababf29f64"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Тээли",
+        "name_ru": "Тээли",
+        "koguun": "Муниципальный район Бай-Тайгинский кожуун",
+        "name_en": "Teeli",
+        "population": 3251,
+        "latitude": 51.011095,
+        "longitude": 90.204306
+      },
+      "geometry": {
+        "coordinates": [
+          90.204306,
+          51.011095
+        ],
+        "type": "Point"
+      },
+      "id": "d0a31f94e45a50e68bcfa2dce1b85fe3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Ленинка",
+        "name_ru": "Ленинка",
+        "koguun": null,
+        "name_en": "Leninka",
+        "population": null,
+        "latitude": 51.990305,
+        "longitude": 93.875205
+      },
+      "geometry": {
+        "coordinates": [
+          93.875205,
+          51.990305
+        ],
+        "type": "Point"
+      },
+      "id": "d0d9840b09eea2b79821fef0d31528d9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Балгазын",
+        "name_ru": "Балгазын",
+        "koguun": "Муниципальный район Тандинский кожуун",
+        "name_en": "Balgazyn",
+        "population": 3681,
+        "latitude": 50.996447,
+        "longitude": 95.167068
+      },
+      "geometry": {
+        "coordinates": [
+          95.167068,
+          50.996447
+        ],
+        "type": "Point"
+      },
+      "id": "d13e735f7f78691db0c6238d495b15dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Бүрен-Бай-Хаак",
+        "name_ru": "Бурен-Бай-Хаак",
+        "koguun": "Муниципальный район Каа-Хемский кожуун",
+        "name_en": "Buren-Bai-Khaak",
+        "population": 1192,
+        "latitude": 51.244977,
+        "longitude": 95.55685
+      },
+      "geometry": {
+        "coordinates": [
+          95.55685,
+          51.244977
+        ],
+        "type": "Point"
+      },
+      "id": "d177515cf02284d2505672c4258d2795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Элегес-Аксы",
+        "name_ru": "Усть-Элегест",
+        "koguun": "Муниципальный район Каа-Хемский кожуун",
+        "name_en": "Ust-Elegest",
+        "population": 1545,
+        "latitude": 51.56,
+        "longitude": 94.082
+      },
+      "geometry": {
+        "coordinates": [
+          94.080597,
+          51.566303
+        ],
+        "type": "Point"
+      },
+      "id": "d40e699dec86a3fcc96498b9b76e022b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Чаа-Хөл",
+        "name_ru": "Чаа-Холь",
+        "koguun": "Муниципальный район Чаа-Хольский кожуун",
+        "name_en": "Chaa-Khol",
+        "population": 3346,
+        "latitude": 51.514131,
+        "longitude": 92.334859
+      },
+      "geometry": {
+        "coordinates": [
+          92.334859,
+          51.514131
+        ],
+        "type": "Point"
+      },
+      "id": "d4366c431ae6dc20694b1760d088fbf0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Хөлчүк",
+        "name_ru": "Холчук",
+        "koguun": "Муниципальный район Чеди-Хольский кожуун",
+        "name_en": "Kholchuk",
+        "population": 228,
+        "latitude": 51.074828,
+        "longitude": 93.277199
+      },
+      "geometry": {
+        "coordinates": [
+          93.277199,
+          51.074828
+        ],
+        "type": "Point"
+      },
+      "id": "d7fbef81d09fcdf39f5341aa219de6a8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Кара-Чыраа",
+        "name_ru": "Кара-Чира",
+        "koguun": null,
+        "name_en": "Kara-Chira",
+        "population": null,
+        "latitude": 51.41691,
+        "longitude": 91.31844
+      },
+      "geometry": {
+        "coordinates": [
+          91.31844,
+          51.41691
+        ],
+        "type": "Point"
+      },
+      "id": "da70e5c0e4161dad09cebe115be48801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Хөндергей",
+        "name_ru": "Хондергей",
+        "koguun": "Муниципальный район Дзун-Хемчикский кожуун",
+        "name_en": "Hondergey",
+        "population": 992,
+        "latitude": 51.128066,
+        "longitude": 91.619359
+      },
+      "geometry": {
+        "coordinates": [
+          91.619359,
+          51.128066
+        ],
+        "type": "Point"
+      },
+      "id": "db37f8ab233b65414bb6220b4f8c2f9a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Усть-Хадын",
+        "name_ru": "Усть-Хадын",
+        "koguun": null,
+        "name_en": "Ust-Khadyn",
+        "population": null,
+        "latitude": 51.288216,
+        "longitude": 94.568761
+      },
+      "geometry": {
+        "coordinates": [
+          94.568761,
+          51.288216
+        ],
+        "type": "Point"
+      },
+      "id": "dcdb8fce28bd1eb145f77cc3d583797f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Адыр-Кежиг",
+        "name_ru": "Адыр-Кежиг",
+        "koguun": null,
+        "name_en": "Adyr-Kezhig",
+        "population": null,
+        "latitude": 52.449773,
+        "longitude": 96.241468
+      },
+      "geometry": {
+        "coordinates": [
+          96.241468,
+          52.449773
+        ],
+        "type": "Point"
+      },
+      "id": "ddd8e39c5c0abfb6a2af068f5d2eb62f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Баян-Кол",
+        "name_ru": "Баян-Кол",
+        "koguun": "Муниципальный район Кызылский кожуун",
+        "name_en": "Bayan-Kol",
+        "population": 1243,
+        "latitude": 51.345,
+        "longitude": 93.3312
+      },
+      "geometry": {
+        "coordinates": [
+          93.3312,
+          51.345
+        ],
+        "type": "Point"
+      },
+      "id": "dea1b8625fd529c01e94bf2bde142696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Сыстыг-Хем",
+        "name_ru": "Сыстыг-Хем",
+        "koguun": "Муниципальный район Тоджинский кожуун",
+        "name_en": "Systyg-Khem",
+        "population": 143,
+        "latitude": 52.665938,
+        "longitude": 95.507789
+      },
+      "geometry": {
+        "coordinates": [
+          95.507789,
+          52.665938
+        ],
+        "type": "Point"
+      },
+      "id": "e07c782bfd48ae6f4ab63f2d66d3d5a6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Тардам",
+        "name_ru": "Тардам",
+        "koguun": null,
+        "name_en": "Tardam",
+        "population": null,
+        "latitude": 51.711287,
+        "longitude": 95.32448
+      },
+      "geometry": {
+        "coordinates": [
+          95.32448,
+          51.711287
+        ],
+        "type": "Point"
+      },
+      "id": "e6b9b7b140fca5305614010f8ee3baea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Владимировка",
+        "name_ru": "Владимировка",
+        "koguun": null,
+        "name_en": "Vladimirovka",
+        "population": null,
+        "latitude": 50.997793,
+        "longitude": 95.305505
+      },
+      "geometry": {
+        "coordinates": [
+          95.305505,
+          50.997793
+        ],
+        "type": "Point"
+      },
+      "id": "e872a8a735fee1870800a337fa31393d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Ак-Даш",
+        "name_ru": "Ак-Даш",
+        "koguun": "Муниципальный район Сут-Хольский кожуун",
+        "name_en": "Ak-Dash",
+        "population": 563,
+        "latitude": 51.341095,
+        "longitude": 91.128167
+      },
+      "geometry": {
+        "coordinates": [
+          91.128167,
+          51.341095
+        ],
+        "type": "Point"
+      },
+      "id": "e9c61a7295d45cddb0cc581cf048ff5b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Тарлаг",
+        "name_ru": "Тарлаг",
+        "koguun": "Муниципальный район Пий-Хемский кожуун",
+        "name_en": "Tarlag",
+        "population": 485,
+        "latitude": 52.067335,
+        "longitude": 93.409955
+      },
+      "geometry": {
+        "coordinates": [
+          93.409955,
+          52.067335
+        ],
+        "type": "Point"
+      },
+      "id": "ea6613c9a3f1cdeb2d1fe81934521032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Шуурмак",
+        "name_ru": "Шурмак",
+        "koguun": "Муниципальный район Тес-Хемский кожуун",
+        "name_en": "Shurmak",
+        "population": 762,
+        "latitude": 50.65321,
+        "longitude": 95.327134
+      },
+      "geometry": {
+        "coordinates": [
+          95.327134,
+          50.65321
+        ],
+        "type": "Point"
+      },
+      "id": "ea9689a0c2369edb8f8ebabc8661b8e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Эрги-Барлык",
+        "name_ru": "Эрги-Барлык",
+        "koguun": "Муниципальный район Барун-Хемчикский кожуун",
+        "name_en": "Ergi-Barlyk",
+        "population": 1518,
+        "latitude": 50.936017,
+        "longitude": 90.404836
+      },
+      "geometry": {
+        "coordinates": [
+          90.404836,
+          50.936017
+        ],
+        "type": "Point"
+      },
+      "id": "ec57fbab86bed18cd3718dbde39ac661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Мугур-Аксы",
+        "name_ru": "Мугур-Аксы",
+        "koguun": "Муниципальный район Монгун-Тайгинский кожуун",
+        "name_en": "Mugur-Aksy",
+        "population": 4402,
+        "latitude": 50.380004,
+        "longitude": 90.441721
+      },
+      "geometry": {
+        "coordinates": [
+          90.441721,
+          50.380004
+        ],
+        "type": "Point"
+      },
+      "id": "ec80dd1e492398fc347c7700a428db5a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Иштии-Хем",
+        "name_ru": "Иштии-Хем",
+        "koguun": "Муниципальный район Улуг-Хемский кожуун",
+        "name_en": "Ishtii-Khem",
+        "population": 537,
+        "latitude": 51.320561,
+        "longitude": 92.475391
+      },
+      "geometry": {
+        "coordinates": [
+          92.475391,
+          51.320561
+        ],
+        "type": "Point"
+      },
+      "id": "ecf8bfbe8e6bb280103c1609f6988f71"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Суг-Аксы",
+        "name_ru": "Суг-Аксы",
+        "koguun": "Муниципальный район Сут-Хольский кожуун",
+        "name_en": "Sug-Aksy",
+        "population": 3196,
+        "latitude": 51.402248,
+        "longitude": 91.278786
+      },
+      "geometry": {
+        "coordinates": [
+          91.278786,
+          51.402248
+        ],
+        "type": "Point"
+      },
+      "id": "f38f4bbaa36f3197e2e3bd738b8a55f8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Ээр-Хавак",
+        "name_ru": "Ээр-Хавак",
+        "koguun": "Муниципальный район Бай-Тайгинский кожуун",
+        "name_en": "Eer-Havak",
+        "population": 721,
+        "latitude": 51.010933,
+        "longitude": 90.260627
+      },
+      "geometry": {
+        "coordinates": [
+          90.260627,
+          51.010933
+        ],
+        "type": "Point"
+      },
+      "id": "f516d6be4a21bcc54fb313d6f576b4b8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Алдан-Маадыр",
+        "name_ru": "Алдан-Маадыр",
+        "koguun": "Муниципальный район Сут-Хольский кожуун",
+        "name_en": "Aldan-Maadyr",
+        "population": 1128,
+        "latitude": 51.1746,
+        "longitude": 90.5839
+      },
+      "geometry": {
+        "coordinates": [
+          90.5839,
+          51.1746
+        ],
+        "type": "Point"
+      },
+      "id": "f78248baf624aa6bf461e7131b5a7437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Сукпак",
+        "name_ru": "Сукпак",
+        "koguun": "Муниципальный район Кызылский кожуун",
+        "name_en": "Sukpak",
+        "population": 4839,
+        "latitude": 51.647387,
+        "longitude": 94.267128
+      },
+      "geometry": {
+        "coordinates": [
+          94.267128,
+          51.647387
+        ],
+        "type": "Point"
+      },
+      "id": "fc66a5ee96d9b8acaa2a2b336eb178de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_tu": "Шекпээр",
+        "name_ru": "Шекпээр",
+        "koguun": "Муниципальный район Барун-Хемчикский кожуун",
+        "name_en": "Shekpeer",
+        "population": 566,
+        "latitude": 51.168363,
+        "longitude": 90.681754
+      },
+      "geometry": {
+        "coordinates": [
+          90.681754,
+          51.168363
+        ],
+        "type": "Point"
+      },
+      "id": "fe4d895623426fdf4e860885cac8fc06"
+    }
+  ],
+  "type": "FeatureCollection"
+}
